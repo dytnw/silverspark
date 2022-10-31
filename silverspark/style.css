@@ -1,0 +1,33 @@
+li {
+    display: inline;
+    align-items: center;
+}
+
+#maincontent {
+    background-color: #D1ECF9;
+}
+
+#maincontent h1 {
+    position: absolute;
+    right: 5%;
+    bottom: 50%;
+    font-size: 50px;
+    color: #EEEEEE;
+}
+
+#maincontent p {
+    font-size: 25px;
+    text-align: center;
+}
+
+#aboutpage {
+    font-size: 18px;
+}
+
+#aboutpage table {
+    background-color: #D1ECF9;
+}
+
+#braceletspage {
+    font-size: 18px;
+}
